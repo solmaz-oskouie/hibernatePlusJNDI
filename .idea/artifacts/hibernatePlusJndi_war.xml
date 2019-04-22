@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hibernatePlusJndi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hibernatePlusJndi.war">
+      <element id="artifact" artifact-name="hibernatePlusJndi:war exploded" />
+    </root>
+  </artifact>
+</component>
